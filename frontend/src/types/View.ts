@@ -1,0 +1,1 @@
+export type View = 'login' | 'dashboard' | 'closet' | 'outfit-creator' | 'saved-outfits';
