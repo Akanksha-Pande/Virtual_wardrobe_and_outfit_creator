@@ -370,7 +370,7 @@ function CSSDummyAvatar({
         <div className={fadeIn ? 'opacity-100 transition-opacity duration-700' : 'opacity-0'}>
           <PositionedAvatarItem
             item={get('shoes')!}
-            topPercent={86}
+            topPercent={78}
             leftPercent={50}
             width={90}
             height={44}
